@@ -1,0 +1,9 @@
+Feedback:
+
+1. (0.0/2.0)
+* El diagrama provisto solo tenía errores mínimos. La propuesta sugiere cosas completamente diferentes al modelo explicado de árbol de comportamiento. Dice que los nodos son roots, cuando el al contrario.
+* No está la clase base de Sequence.
+* No hay multiplicidades.
+
+2. (0.0/3.0)
+No hay código qué revisar (comprimido vacío)
