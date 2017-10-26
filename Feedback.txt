@@ -1,9 +1,14 @@
 Feedback:
 
 1. (0.0/2.0)
-* El diagrama provisto solo ten�a errores m�nimos. La propuesta sugiere cosas completamente diferentes al modelo explicado de �rbol de comportamiento. Dice que los nodos son roots, cuando el al contrario.
-* No est� la clase base de Sequence.
+* El diagrama provisto solo tenía errores mínimos. La propuesta sugiere cosas completamente diferentes al modelo explicado de árbol de comportamiento. Dice que los nodos son roots, cuando el al contrario.
+* No está la clase base de Sequence.
 * No hay multiplicidades.
 
 2. (0.0/3.0)
-No hay c�digo qu� revisar (comprimido vac�o)
+No hay código qué revisar (comprimido vacío)
+
+EDIT:
+2. (0.0/3.0)
+* No se puede construir el árbol de comportamiento pedido con el código suministrado.
+* Aunque era código comentado, debería tratar como fraude el código de Player.cs. Por qué copiaron el código de otro lado, aún cuando podían simplemente descargar el controlador y referenciarlo en un readme?
